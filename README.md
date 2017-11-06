@@ -30,7 +30,7 @@ Project | Description | Technologies | Timeframe |
 [Boris Bikes](https://github.com/georn/boris-bikes)| First delve into object-oriented programming and Test-Driven Development using Ruby. | Ruby, RSpec, Travis CI, Coveralls | 1 Week
 [Airport Challenge](https://github.com/georn/airportChallenge)| First immersion into object-oriented programming with Javascript ES5 after learning it for a week. Revisited since then and improved| Javascript ES5 and Jasmine, at first. Now its working on Node.js and Jasmine was implemented as a package. Also has Travis CI.| 2 - 3 days
 [Thermostat](https://github.com/georn/Thermostat) | Second immersion into Javascript ES5. Revisited and improved. | Javascript ES5, Node.js, JQuery, Express.js, Pug, Jasmine, Istanbul, Travic CI, Coveralls | 2 - 3 days
-[the SunTiger](https://github.com/georn/search_engine)|CLI Search engine built from scratch, with the only exception of Nokogiri (a gem to parse HTML)| Ruby, RSpec, Nokogiri | 1 Week
+[the SunTiger](https://github.com/georn/The-Suntiger)|CLI Search engine built from scratch, with the only exception of Nokogiri (a gem to parse HTML)| Ruby, RSpec, Nokogiri | 1 Week
 [Acebook](https://github.com/georn/Acebook)| A Facebook clone built on Ruby on Rails in a week during the Makers Academy course in a week | Ruby on Rails, RSpec, PostgreSQL, HTML, SASS, Bootstrap 3, Travis CI | 1 Week
 
 **After Makers Academy:**
