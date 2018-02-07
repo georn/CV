@@ -55,7 +55,7 @@ A highly selective 12-week intensive coding bootcamp based London, United Kingdo
 * Model-View-Controller
 * XP values
 
-#### College of New Caledonia (May 2015 to January 2016)
+#### College of New Caledonia (May 2015 to December 2015)
 
 ***University Transfer Program for Engineering***
 * Canadian College located in the city of Prince George in British Columbia.
@@ -63,7 +63,7 @@ A highly selective 12-week intensive coding bootcamp based London, United Kingdo
 * Introduced to Java
 * Due to the great cost, I had to return to Venezuela before I could complete it.
 
-#### Universidad Simón Bolívar (September 2012 to January 2015 and from January 2016 to May 2016)
+#### Universidad Simón Bolívar (September 2012 to December 2014 and from January 2016 to May 2016)
 
 ***Computer Engineering***
 * Ranked among the best 50 universities in Latin America.
